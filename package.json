@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajay2304/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajay2304/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Ajay2304/Portfolio#readme",
+  "description": ""
+}
